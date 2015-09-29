@@ -1,6 +1,7 @@
-//this is an example c++ file
+#include <iostream>
+
 using namespace std;
-int main () {
+int main() {
   cout <<"Hello World!" << endl;
-  retun 0; //exit the program
+  return 0; //exit the program
 }
